@@ -774,6 +774,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick
       objectReference: {fileID: 0}
+    - target: {fileID: 2774192576181821427, guid: 83fba9b79bf962f41a88e2634ac0dbe9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 984472231962367602, guid: 83fba9b79bf962f41a88e2634ac0dbe9,
         type: 3}
       propertyPath: m_LocalPosition.x
