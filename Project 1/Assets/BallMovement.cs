@@ -82,7 +82,6 @@ public class BallMovement : MonoBehaviour
             }
 
             transform.position = new Vector3(-4.5f, 3, 25);
-
         }
     }
 }
